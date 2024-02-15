@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Resume Analyser App
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
@@ -52,3 +53,6 @@
 
 # [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
 ## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
+=======
+# Resume_Analysis_Tool
+>>>>>>> 54f669435e1da029f362522561b7222a3d70f622
