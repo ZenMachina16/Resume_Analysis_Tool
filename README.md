@@ -49,10 +49,3 @@
 <img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
 
 
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-=======
-# Resume_Analysis_Tool
->>>>>>> 54f669435e1da029f362522561b7222a3d70f622
